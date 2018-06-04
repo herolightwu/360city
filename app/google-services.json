@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_number": "833861332090",
+    "firebase_url": "https://city-583f0.firebaseio.com",
+    "project_id": "city-583f0",
+    "storage_bucket": "city-583f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833861332090:android:6ae026fb9783c258",
+        "android_client_info": {
+          "package_name": "cz.com.a360city"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833861332090-bau5vf4iq7gkro4pm8ub3soev8chko97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cz.com.a360city",
+            "certificate_hash": "2751a314d641140d21ca0dc004ebf2cf6c244e5f"
+          }
+        },
+        {
+          "client_id": "833861332090-4fan5kdmua8i50ig7niir2e8jm906tun.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "833861332090-4fan5kdmua8i50ig7niir2e8jm906tun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp155OBlS0QK7WTDVKX9m4gTChJXlqTk0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833861332090-4fan5kdmua8i50ig7niir2e8jm906tun.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "833861332090-k507t3of7l2trdg20ffe790pjaqjcjlt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cz.com.360moscow"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

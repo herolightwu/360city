@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_register"
+            android:title="Register"
+            app:itemBackground="@drawable/bg_menu_register"/>
+        <item
+            android:id="@+id/nav_feedback"
+            android:title="Send Feedback"
+            app:itemBackground="@drawable/bg_menu_feedback"/>
+        <item
+            android:id="@+id/nav_linkone"
+            android:title="Map"
+            app:itemBackground="@drawable/bg_menu_map"/>
+        <item
+            android:id="@+id/nav_linktwo"
+            android:title="Send us your 3D photo"
+            app:itemBackground="@drawable/bg_menu_photo"/>
+        <item
+            android:id="@+id/nav_facebook"
+            android:title="Find us on Facebook"
+            app:itemBackground="@drawable/bg_menu_facebook"/>
+        <item
+            android:id="@+id/nav_instagram"
+            android:title="Find us on Instagram"
+            app:itemBackground="@drawable/bg_menu_instagram"/>
+    </group>
+
+
+</menu>
